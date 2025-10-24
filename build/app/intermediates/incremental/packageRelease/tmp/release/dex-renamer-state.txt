@@ -1,0 +1,4 @@
+#Fri Oct 24 13:06:39 PKT 2025
+base.0=C\:\\Users\\PC\\Downloads\\spamanagement-main\\build\\app\\intermediates\\dex\\release\\minifyReleaseWithR8\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex

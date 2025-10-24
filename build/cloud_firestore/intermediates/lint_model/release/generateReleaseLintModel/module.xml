@@ -1,0 +1,26 @@
+<lint-module
+    format="1"
+    dir="C:\Users\PC\AppData\Local\Pub\Cache\hosted\pub.dev\cloud_firestore-6.0.0\android"
+    name=":cloud_firestore"
+    type="LIBRARY"
+    maven="io.flutter.plugins.firebase.cloudfirestore:cloud_firestore:1.0-SNAPSHOT"
+    agpVersion="8.9.1"
+    buildFolder="C:\Users\PC\Downloads\spamanagement-main\build\cloud_firestore"
+    bootClassPath="C:\Users\PC\AppData\Local\Android\sdk\platforms\android-34\android.jar;C:\Users\PC\AppData\Local\Android\sdk\build-tools\35.0.0\core-lambda-stubs.jar"
+    javaSourceLevel="17"
+    compileTarget="android-34"
+    neverShrinking="true">
+  <lintOptions
+      disable="InvalidPackage"
+      abortOnError="true"
+      absolutePaths="true"
+      checkReleaseBuilds="true"
+      explainIssues="true">
+    <severities>
+      <severity
+        id="InvalidPackage"
+        severity="IGNORE" />
+    </severities>
+  </lintOptions>
+  <variant name="release"/>
+</lint-module>

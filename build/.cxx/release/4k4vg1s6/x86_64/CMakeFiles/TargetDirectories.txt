@@ -1,0 +1,2 @@
+C:/Users/PC/Downloads/spamanagement-main/build/.cxx/release/4k4vg1s6/x86_64/CMakeFiles/edit_cache.dir
+C:/Users/PC/Downloads/spamanagement-main/build/.cxx/release/4k4vg1s6/x86_64/CMakeFiles/rebuild_cache.dir

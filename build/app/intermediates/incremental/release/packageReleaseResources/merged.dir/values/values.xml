@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="gcm_defaultSenderId" translatable="false">930572192382</string>
+    <string name="google_api_key" translatable="false">AIzaSyAlE8wHkDtMFyEON9DYXM8SH1uDNd3mXIA</string>
+    <string name="google_app_id" translatable="false">1:930572192382:android:5d776b4d3a5b47d17ce62f</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAlE8wHkDtMFyEON9DYXM8SH1uDNd3mXIA</string>
+    <string name="google_storage_bucket" translatable="false">spasalonmanagement.firebasestorage.app</string>
+    <string name="project_id" translatable="false">spasalonmanagement</string>
+    <style name="LaunchTheme" parent="@android:style/Theme.Light.NoTitleBar">
+        
+        <item name="android:windowBackground">@drawable/launch_background</item>
+    </style>
+    <style name="NormalTheme" parent="@android:style/Theme.Light.NoTitleBar">
+        <item name="android:windowBackground">?android:colorBackground</item>
+    </style>
+</resources>
